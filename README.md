@@ -19,4 +19,5 @@ aka record linkage, entity matching
 - IBM InfoSphere
 
 ## Papers
-- [Executing Entity Matching End to End: A Case Study Konda, Seshadri, Segarram, et al](http://pages.cs.wisc.edu/~anhai/papers1/umetrics-edbt19.pdf) 2019
+- [Executing Entity Matching End to End: A Case Study](http://pages.cs.wisc.edu/~anhai/papers1/umetrics-edbt19.pdf) 2019
+- [Synthesizing Entity Matching Rules by Examplesm](https://vamsikrishna1902.github.io/files/VLDB-2017.pdf) 2017
