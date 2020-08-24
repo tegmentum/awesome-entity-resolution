@@ -12,7 +12,7 @@ aka record linkage, entity matching
 - Nadeef
 - [Magellan](https://sites.google.com/site/anhaidgroup/projects/magellan)
 
-## Commertial
+## Commercial
 - [Senzing](https://senzing.com)
 - Tamr
 - Data Ladder
