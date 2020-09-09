@@ -4,7 +4,7 @@ aka record linkage, entity matching
 
 - DeepER
 - AutoER [paper](https://arxiv.org/pdf/1908.06049v1.pdf)
-- ZeroER [paper](https://arxiv.org/abs/1908.06049)
+- ZeroER [paper](https://arxiv.org/pdf/1908.06049.pdf)
 - Auto-EM [paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Auto-EM.pdf)
 - [Serf](https://github.com/trevorprater/serf) - Stanford Entity Resolution Framework
 - D-dupe
