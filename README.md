@@ -44,6 +44,7 @@ aka record linkage, entity matching
 - https://deepai.org/publication/autoer-automated-entity-resolution-using-generative-modelling
 - https://paperswithcode.com/task/entity-resolution/codeless
 - [Towards Interpretable and Learnable Risk Analysis for Entity Resolution]https://arxiv.org/abs/1912.02947)
+- [The Best of Both Worlds: Combining Hand-Tuned andWord-Embedding-Based Similarity Measures for EntityResolution](https://btw.informatik.uni-rostock.de/download/tagungsband/B5-2.pdf)
 
 ## People
 
