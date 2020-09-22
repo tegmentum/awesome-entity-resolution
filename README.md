@@ -43,6 +43,7 @@ aka record linkage, entity matching
 - [Distributed Representations of Tuples for Entity Resolution](https://arxiv.org/pdf/1710.00597.pdf)
 - https://deepai.org/publication/autoer-automated-entity-resolution-using-generative-modelling
 - https://paperswithcode.com/task/entity-resolution/codeless
+- [Towards Interpretable and Learnable Risk Analysis for Entity Resolution]https://arxiv.org/abs/1912.02947)
 
 ## People
 
