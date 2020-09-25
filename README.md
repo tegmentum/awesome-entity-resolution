@@ -45,6 +45,11 @@ aka record linkage, entity matching
 - https://paperswithcode.com/task/entity-resolution/codeless
 - [Towards Interpretable and Learnable Risk Analysis for Entity Resolution]https://arxiv.org/abs/1912.02947)
 - [The Best of Both Worlds: Combining Hand-Tuned andWord-Embedding-Based Similarity Measures for EntityResolution](https://btw.informatik.uni-rostock.de/download/tagungsband/B5-2.pdf)
+- [Frameworks for entity matching: A comparison](https://nikhilnkini.files.wordpress.com/2017/04/kopcke-dke09_frameworksforentitymatchingacomparison.pdf)
+- [Low-resource Deep Entity Resolution with Transfer and Active Learning](https://deepai.org/publication/low-resource-deep-entity-resolution-with-transfer-and-active-learning)
+- [EXPLAINER: Entity Resolution Explanations](https://www.cs.purdue.edu/homes/aref/IDAS/A-ExplainER.pdf)
+- [CrowdER: Crowdsourcing Entity Resolution](https://amplab.cs.berkeley.edu/wp-content/uploads/2012/06/crowder-vldb12.pdf)
+- [Gradual Machine Learning for Entity Resolution](https://arxiv.org/pdf/1810.12125.pdf)
 
 ## People
 
