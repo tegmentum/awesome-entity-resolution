@@ -30,6 +30,7 @@ aka record linkage, entity matching
 - [anonlink](https://github.com/data61/anonlink)
 - [dblink](https://github.com/cleanzr/dblink)
 - [SparkER](https://github.com/Gaglia88/sparker)
+- [Bootleg](https://hazyresearch.stanford.edu/bootleg/)
 
 ## Papers
 - https://paperswithcode.com/task/entity-linking
